@@ -1,0 +1,10 @@
+D:\_My_Math\The sphere and points\The sphere and points\bin\Debug\The sphere and points.exe.config
+D:\_My_Math\The sphere and points\The sphere and points\obj\Debug\The sphere and points.csprojAssemblyReference.cache
+D:\_My_Math\The sphere and points\The sphere and points\obj\Debug\The_sphere_and_points.Form1.resources
+D:\_My_Math\The sphere and points\The sphere and points\obj\Debug\The_sphere_and_points.Properties.Resources.resources
+D:\_My_Math\The sphere and points\The sphere and points\obj\Debug\The sphere and points.csproj.GenerateResource.cache
+D:\_My_Math\The sphere and points\The sphere and points\obj\Debug\The sphere and points.csproj.CoreCompileInputs.cache
+D:\_My_Math\The sphere and points\The sphere and points\bin\Debug\The sphere and points.exe
+D:\_My_Math\The sphere and points\The sphere and points\bin\Debug\The sphere and points.pdb
+D:\_My_Math\The sphere and points\The sphere and points\obj\Debug\The sphere and points.exe
+D:\_My_Math\The sphere and points\The sphere and points\obj\Debug\The sphere and points.pdb
